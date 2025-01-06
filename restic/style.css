@@ -1,0 +1,1005 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.logo{
+    position: absolute;
+    height: 100px;
+    left: 100px;
+    top: 50px;
+}
+.gl{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 900px;
+}
+.menu{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 1000px;
+}
+.ve{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 1080px;
+}
+.bro{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 1160px;
+}
+.kor{
+    height: 20px;
+    position: absolute;
+    top: 90px;
+    left: 1230px;
+}
+.line{
+    background: white;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+    left: 1260px;
+}
+.tel{
+    height: 20px;
+    position: absolute;
+    top: 75px;
+    left: 1280px;
+}
+.num{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 73px;
+    left: 1310px;
+}
+.bron{
+    position: absolute;
+    font-size: 15px;
+    top: 95px;
+    left: 1300px;
+}
+.zak{
+    background: #ff7400;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+    left: 1500px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.wel{
+    color: #d67e35;
+    position: absolute;
+    font-size: 60px;
+    left: 300px;
+    top: 400px;
+}
+.wel2{
+    color: #d67e35;
+    position: absolute;
+    font-size: 100px;
+    left: 270px;
+    top: 480px;
+}
+.line1{
+    background: white;
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    left: 450px;
+    top: 600px;
+}
+.hom{
+    font-size: 20px;
+    position: absolute;
+    left: 510px;
+    top: 585px;
+}
+.line2{
+    background: white;
+    width: 50px;
+    height: 2px;
+    position: absolute;
+    left: 670px;
+    top: 600px;
+}
+.men{
+    background: #ff7400;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 620px;
+    left: 510px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.box{
+    width: 300px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    top: 900px;
+    left: 400px;
+    box-shadow: 2px 0px 5px black;
+}
+.ed1{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.mg{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+.at{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+.box1{
+    width: 300px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    top: 900px;
+    left: 800px ;
+    box-shadow: 2px 0px 5px black;
+}
+.ed2{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.ka{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.ka1{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+}
+.box2{
+    width: 300px;
+    height: 250px;
+    background: white;
+    position: absolute;
+    top: 900px;
+    right: 400px;
+    box-shadow: 2px 0px 5px black;
+}
+.ed3{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.mga{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 100px;
+    left: 85px;
+}
+.ato{
+    color: black;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 150px;
+    left: 60px;
+}
+.menuh{
+    width: 1900px;
+    height: 700px;
+}
+.his{
+    color: black;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 200px;
+    top: 1200px; 
+}
+.text{
+    color: black;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 200px;
+    top: 1300px; 
+}
+.kol1{
+    position: absolute;
+    font-size: 50px;
+    color: #bc9060;
+    left: 200px;
+    top: 1600px;
+}
+.nap{
+    position: absolute;
+    font-size: 30px;
+    color: #000000;
+    left: 170px;
+    top: 1650px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.kol2{
+    position: absolute;
+    font-size: 50px;
+    color: #bc9060;
+    left: 400px;
+    top: 1600px;
+}
+.eda{
+    position: absolute;
+    font-size: 30px;
+    color: #000000;
+    left: 410px;
+    top: 1650px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.kol3{
+    position: absolute;
+    font-size: 50px;
+    color: #bc9060;
+    left: 600px;
+    top: 1600px;
+}
+.zaku{
+    position: absolute;
+    font-size: 30px;
+    color: #000000;
+    left: 570px;
+    top: 1650px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imga{
+    position: absolute;
+    top: 1200px;
+    left: 1000px;
+}
+.sub{
+    width: 1900px;
+}
+.op{
+    position: absolute;
+    background: black;
+    width: 1900px;
+    height: 470px;
+    top: 1760px;
+    opacity: 70%;
+}
+.tex1{
+    color: #ff7400;
+    font-size: 40px;
+    position: absolute;
+    top: 1900px;
+    left: 200px;
+}
+.tex2{
+    font-size: 25px;
+    position: absolute;
+    top: 2050px;
+    left: 200px;
+}
+.stol{
+    background: #ff7400;
+    color: white;
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    top: 2000px;
+    left: 1200px;
+}
+.blud{
+    background: white;
+    width: 1900px;
+    height: 800px;
+}
+.piz{
+    position: absolute;
+    left: 200px;
+    top: 2500px;
+}
+.gam{
+    position: absolute;
+    left: 700px;
+    top: 2504px;
+}
+.gam1{
+    position: absolute;
+    left: 700px;
+    top: 2674px;
+}
+.gam2{
+    position: absolute;
+    left: 700px;
+    top: 2837px;
+}
+.tex3{
+    color: #000000;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left: 800px;
+}
+.tex4{
+    color: #000000;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 450px;
+    left: 1000px;
+}
+.tex5{
+    color: #000000;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 250px;
+    left: 1000px;
+}
+.tex6{
+    color: #000000;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 550px;
+    left: 1000px;
+}
+.text1{
+    font-size: 40px;
+    position: absolute;
+    top: 3100px;
+    left: 820px;
+    color: #ffffff;
+}
+.menuha{
+    width: 1900px;
+    height: 800px;
+}
+.max{
+    width: 250px;
+    height: 350px;
+    box-shadow: 2px 0px 5px black;
+    position: absolute;
+    top: 3300px;
+    background: white;
+    left: 400px;
+}
+.gambu{
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.maxi{
+    color: #000000;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+.sloy{
+    color: #000000;
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    left: 40px;
+}
+.zakaz{
+    background: #d67e35;
+    color: white;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+.max1{
+    width: 250px;
+    height: 350px;
+    box-shadow: 2px 0px 5px black;
+    position: absolute;
+    top: 3300px;
+    background: white;
+    left: 800px;
+}
+.max2{
+    width: 250px;
+    height: 350px;
+    box-shadow: 2px 0px 5px black;
+    position: absolute;
+    top: 3300px;
+    background: white;
+    right: 450px;
+}
+.otz{
+    position: absolute;
+    top: 3800px;
+    margin: 0;
+    padding: 0;
+    width: 1900px;
+    height: 400px;
+    background: rgb(201, 196, 196);
+}
+.otzi{
+    position: relative;
+    color: #000000;
+    font-size: 20px;
+    top: 40px;
+    left: 600px;
+}
+.niko{
+    position: relative;
+    top: 60px;
+    left: 900px;
+}
+.pos{
+    position: relative;
+    top: 80px;
+    color: #000000;
+    font-size: 25px;
+    left: 890px;
+}
+.nik{
+    position: relative;
+    top: 120px;
+    color: #000000;
+    font-size: 25px;
+    left: 910px;
+}
+.galery{
+    width: 1900px;
+    height: 1900px;
+    background: #ffffff;
+}
+.gal{
+    font-size: 40px;
+    color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 400px;
+    left: 840px;
+}
+.bok{
+    width: 500px;
+    position: relative;
+    top: 600px;
+    left: 450px;
+    height: 274px;
+}
+.bok1{
+    width: 500px;
+    position: relative;
+    top: 880px;
+    left: 455px;
+    height: 274px;
+}
+.kofe{
+    position: relative;
+    top: 600px;
+    right: 50px;
+}
+.sup{
+    position: relative;
+    top: 600px;
+    right: 50px;
+    width: 240px;
+    height: 272px;
+}
+.kofe1{
+    position: relative;
+    top: 880px;
+    right: 810px;
+}
+.sup1{
+    position: relative;
+    top: 603px;
+    left: 450px;
+    width: 240px;
+    height: 272px;
+}
+.pov{
+    font-size: 40px;
+    color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    top: 650px;
+    left: 850px;
+}
+.kolp{
+    position: relative;
+    top: 700px;
+    left: 300px;
+}
+.ita{
+    position: relative;
+    top: 700px;
+    left: 900px;
+}
+.pek{
+    position: relative;
+    top: 700px;
+    left: 80px;
+}
+.mk{
+    width: 1900px;
+}
+.fon{
+    width: 1900px;
+}
+.colortext {
+    color: #bc9060; 
+  }
+.colortext2 {
+    color: #d67e34; 
+}
+.bezim{
+    width: 30px;
+    position: absolute;
+    top: 20px;
+    left: 270px;
+    display: none;
+}
+@media (max-width: 320px){
+    .wel{
+        font-size: 30px;
+        width: 300px;
+        top: 290px;
+        left: 40px;
+    }
+    .wel2{
+        top: 320px;
+        left: 20px;
+        position: absolute;
+        font-size: 40px;
+    }
+    .bezim{
+        display: inline;
+    }
+    .fon{
+        width: 320px;
+        height: 600px;
+    }
+    .logo{
+        height: 30px;
+        left: 20px;
+        top: 20px;
+    }
+    .gl{
+        font-size: 10px;
+        left: 400px;
+    }
+    .menu{
+        font-size: 10px;
+        left: 450px;
+    }
+    .ve{
+        font-size: 10px;
+        left: 500px;
+    }
+    .bro{
+        font-size: 10px;
+        left: 550px;
+    }
+    .kor{
+        height: 10px;
+        left: 600px;
+    }
+    .line{
+        top: 80px;
+        left: 620px;
+    }
+    .tel{
+        height: 10px;
+        left: 640px;
+    }
+    .num{
+        font-size: 10px;
+        left: 660px;
+    }
+    .bron{
+        font-size: 8px;
+        left: 660px;
+    }
+    .zak{
+        width: 80px;
+        height: 20px;
+        left: 750px;
+        font-size: 10px;
+    }
+    .line1{
+        width: 50px;
+        height: 2px;
+        top: 400px;
+        left: 200px;
+        display: none;
+    }
+    .hom{
+        font-size: 15px;
+        top: 380px;
+        left: 100px;
+        width: 200px;
+    }
+    .line2{
+        width: 50px;
+        height: 2px;
+        top: 400px;
+        left: 340px;
+    }
+    .men{
+        width: 200px;
+        height: 40px;
+        top: 430px;
+        left: 60px;
+        font-size: 30px;
+    }
+    .box{
+        width: 280px;
+        height: 250px;
+        top: 530px;
+        left: 20px;
+    }
+    .ed1{
+       width: 80px;
+       top: 20px;
+       left: 100px;
+    }
+    .mg{
+        font-size: 20px;
+        top: 100px;
+        left: 40px;
+    }
+    .at{
+        font-size: 20px;
+        top: 140px;
+        left: 30px;
+    }
+    .box1{
+        width: 280px;
+        height: 250px;
+        top: 800px;
+        left: 20px;
+    }
+    .ed2{
+        width: 80px;
+       top: 20px;
+       left: 100px;
+    }
+    .ka{
+        font-size: 25px;
+        top: 100px;
+        left: 25px;
+    }
+    .ka1{
+        font-size: 30px;
+        top: 150px;
+        left: 30px;
+    }
+    .box2{
+        width: 280px;
+        height: 250px;
+        top: 1070px;
+        left: 20px;
+    }
+    .ed3{
+        width: 80px;
+        top: 20px;
+        left: 100px;
+       
+    }
+    .mga{
+        font-size: 25px;
+        top: 100px;
+        left: 60px;
+    }
+    .ato{
+        font-size: 20px;
+        top: 130px;
+        left: 40px;
+    }
+    .menuh{
+        width: 320px;
+        height: 1800px;
+    }
+    .his{
+        font-size: 25px;
+        top: 1350px;
+        left: 120px;
+        width: 25px;
+        text-align: center;
+    }
+    .text{
+        font-size: 18px;
+        top: 1420px;
+        left: 0px;
+        text-align: center;
+        width: 300px;
+    }
+    .kol1{
+        font-size: 40px;
+        top: 1800px;
+        left: 140px;
+    }
+    .nap{
+        font-size: 25px;
+        left: 110px;
+        top: 1850px;
+    }
+    .kol2{
+        font-size: 40px;
+        top: 1880px;
+        left: 130px;
+    }
+    .eda{
+        font-size: 25px;
+        top: 1930px;
+        left: 140px;
+    }
+    .kol3{
+        font-size: 40px;
+        top: 1960px;
+        left: 140px;
+    }
+    .zaku{
+        font-size: 25px;
+        top: 2000px;
+        left: 115px;
+    }
+    .imga{
+        top: 2100px;
+        left: 30px;
+        width: 250px;
+        position: absolute;
+    }
+    .sub{
+        width: 320px;
+        height: 300px;
+    }
+    .op{
+        width: 320px;
+        height: 300px;
+        top: 2405px;
+        opacity: 80%;
+    }
+    .tex1{
+        font-size: 20px;
+        top: 2440px;
+        left: 90px;
+        width: 140px;
+        text-align: center;
+    }
+    .tex2{
+        font-size: 17px;
+        top: 2540px;
+        left: 80px;
+        width: 200px;
+    }
+    .stol{
+        width: 200px;
+        height: 40px;
+        top: 2610px;
+        left: 60px;
+        font-size: 20px;
+    }
+    .blud{
+        width: 320px;
+        height: 900px;
+    }
+    .piz{
+        width: 320px;
+        top: 2850px;
+        left: 0;   
+    }
+    .gam{
+        width: 90px;
+        top: 3200px;
+        left: 20px;
+    }
+    .gam1{
+        width: 90px;
+        top: 3300px;
+        left: 20px;
+       
+    }
+    .gam2{
+        width: 90px;
+        top: 3400px;
+        left: 20px;
+       
+    }
+    .tex3{
+        font-size: 30px;
+        top: 60px;
+        left: 80px;
+        color: #000000;
+    }
+    .tex4{
+        font-size: 10px;
+        top: 490px;
+        left: 130px;
+    }
+    .tex5{
+        font-size: 10px;
+        top: 580px;
+        left: 130px;
+    }
+    .tex6{
+        font-size: 10px;
+        top: 660px;
+        left: 130px;
+    }
+    .text1{
+        font-size: 20px;
+        top: 1550px;
+        left: 300px;
+    }
+    .menuha{
+        width: 320px;
+        height: 360px;
+    }
+    .max{
+        width: 280px;
+        height: 280px;
+        top: 3630px;
+        left: 20px;
+    }
+    .gambu{
+        width: 100px;
+        left: 80px;
+    }
+    .maxi{
+        font-size: 25px;
+        left: 50px;
+    }
+    .sloy{
+        font-size: 20px;
+        left: 50px;
+    }
+    .zakaz{
+        width: 200px;
+        height: 40px;
+        font-size: 25px;
+        left: 40px;
+    }
+    .max1{
+        width: 125px;
+        height: 175px;
+        top: 1600px;
+        left: 330px;
+        display: none;
+    }
+    .max2{
+        width: 125px;
+        height: 175px;
+        top: 1600px;
+        left: 530px;
+        display: none;
+    }
+    .otz{
+        width: 320px;
+        height: 300px;
+        top: 3920px;
+    }
+    .otzi{
+        font-size: 15px;
+        left: 0px;
+        top: 20px;
+        text-align: center;
+        width: 300px;
+    }
+    .niko{
+        top: 30px;
+        left: 110px;
+        width: 80px;
+
+    }
+    .pos{
+        font-size: 20px;
+        left: 100px;
+        top: 30px;
+    }
+    .nik{
+        font-size: 12px;
+        left: 125px;
+        top: 30px;
+    }
+    .galery{
+        width: 320px;
+        height: 3500px;
+        top: 5000px;
+    }
+    .gal{
+        font-size: 20px;
+        top: 270px;
+        left: 100px;
+    }
+    .bok{
+        width: 280px;
+        height: 280px;
+        top: 300px;
+        left: 20px;
+    }
+    .bok1{
+        width: 280px;
+        height: 280px;
+        top: 1570px;
+        left: 20px;
+    }
+    .kofe{
+        top: 40px;
+        width: 280px;
+        left: 20px;
+    }
+    .sup{
+        width: 280px;
+        height: 280px;
+        top: 60px;
+        left: 20px;
+    }
+    .kofe1{
+        width: 280px;
+        height: 280px;
+        top: 80px;
+        left: 20px;
+    }
+    .sup1{
+        width: 280px;
+        height: 280px;
+        top: 100px;
+        left: 20px;
+    }
+    .pov{
+        font-size: 20px;
+        top: 450px;
+        left: 100px;
+    }
+    .kolp{
+        width: 280px;
+        top: 500px;
+        left: 25px;
+    }
+    .ita{
+        width: 280px;
+        top: 520px;
+        left: 25px;
+
+    }
+    .pek{
+        width: 280px;
+        top: 540px;
+        left: 25px;
+        
+    }
+    .mk{
+        width: 320px;
+    }
+}
